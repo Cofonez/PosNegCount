@@ -1,0 +1,16 @@
+#counts the number of positive and negative numbers
+print("Problem 5 counting positive and negative numbers")
+var3 = int(input("enter the your numbers input q to quit: "))
+totalpos = 0
+totalneg = 0
+
+while var 3 != 'q':
+    if var3 // 2 = 0:
+        totalpos = totalpos +1
+        elif:
+            var3 // 2 != 0:
+                totalneg = totalneg +1
+    var3=int(input("enter another number or q to quit")
+        
+print("the number of positive numbers is", totalpos)
+print("the number of negative numbers is", totalneg)
